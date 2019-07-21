@@ -1,6 +1,9 @@
 /* Responsive Full Background Image Using CSS
  * Tutorial URL: http://sixrevisions.com/css/responsive-background-image/
 */
+body {
+	margin:0;
+}
 .bg {
   /* Location of the image */
   height: 100vh;
